@@ -1,0 +1,20 @@
+.navbar-nav .nav-link {
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .navbar-nav .nav-link:hover {
+  
+    background-color:black; 
+     color: bisque; 
+ }
+ #footer-section
+{
+    font-size: 50px;
+}
+.btn btn-primary {
+    background-color: antiquewhite;
+    color: black;
+    width:auto;
+    height:70px;
+    text-align: center;
+}
